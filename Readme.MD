@@ -1,4 +1,6 @@
-Check Version:		 git –version
+<h2>Git Basic Command</h2>
+============================================
+<p>Check Version: git –version</p>
 Create directory:	mkdir 
 Make local Ripository : 		mkdir
 Initialize a local Git repository: 	git init
