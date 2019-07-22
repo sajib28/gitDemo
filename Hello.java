@@ -3,7 +3,7 @@ public static void main(string[] args){
 System.out.println("Vs Code is awesome");
 
 }
-public static void strt(int x){
-    return x*x;
+public static void display(){
+    System.out.println("Merge conflict bother a lot");
 
 }
