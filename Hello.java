@@ -10,3 +10,7 @@ public static void display(){
     System.out.println("Merge conflict bother a lot");
 
 }
+public int messageSent(){
+    system.out.println("New Message sent to the user");
+}
+}
